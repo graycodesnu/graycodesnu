@@ -1,10 +1,10 @@
-### Hi there, I'm Grayson 👋
+# Hi there, I'm Grayson 👋
 
-I'm a full stack engineer, passionate about code, the Dodgers ⚾️, and the WNBA 🏀. 
+### I'm a full stack engineer, passionate about code, the Dodgers ⚾️, and the WNBA 🏀. 
 
-I ♥️ building React apps with beautiful frontends and efficient backends. 
+### I ♥️ building React apps with beautiful frontends and efficient backends. 
 
-My favorite thing about coding is the endless learning opportunities!💡
+### My favorite thing about coding is the endless learning opportunities!💡
 
 - 🔭 I’m currently working on [My Pets](https://github.com/OurPetProjects/my_pets), a MERN app for keeping track of your pets' feeding schedules, vet appointments, and other important tasks.
 
@@ -16,7 +16,7 @@ My favorite thing about coding is the endless learning opportunities!💡
 
 - 💬 Ask me about my dog and cats, working full-time during a coding bootcamp, or my human rights policy research.
 
-#### Skills
+## Skills
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -27,7 +27,7 @@ My favorite thing about coding is the endless learning opportunities!💡
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
-#### Connect with me on [LinkedIn](https://www.linkedin.com/in/g-harvey/) 📫
+## Connect with me on [LinkedIn](https://www.linkedin.com/in/g-harvey/) 📫
 
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=graycodesnu)](https://github.com/graycodesnu/github-readme-stats)

@@ -1,6 +1,6 @@
 # Hi there, I'm Grayson 👋
 
-### I'm a full stack engineer, passionate about code, the Dodgers ⚾️, and the WNBA 🏀. 
+### I'm a full stack engineer, passionate about code 💻, the Dodgers ⚾️, and the WNBA 🏀. 
 
 ### I ♥️ building React apps with beautiful frontends and efficient backends. 
 

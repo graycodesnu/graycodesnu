@@ -4,9 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-Stack Developer
 --------------------
 
-I began coding over a year ago, initially thinking it'd be a hobby I'd move on from. Turns out, I have a passion for tackling challenging problems and bringing functionality to life. Within a few months, I found myself enrolled in bootcamp at Northwestern University. 
-
-Currently, I am seeking my first job as a developer, while also mentoring and teaching engineers of various ages. During my free time, I enjoy working on full-stack projects, contributing to Hack for LA, and experimenting with fun APIs.
+I began coding over a year ago, initially thinking it'd be a hobby I'd move on from. Turns out, I have a passion for tackling challenging problems and bringing functionality to life. Within a few months, I found myself enrolled in bootcamp at Northwestern University. Currently, I am seeking my first job as a developer, while also mentoring and teaching engineers of various ages. During my free time, I enjoy working on full-stack projects, contributing to Hack for LA, and experimenting with fun APIs.
 
 * 🌍  I'm based in Chicago, IL
 * 🖥️  See my portfolio at [graycodes.dev](http://graycodes.dev)
@@ -32,8 +30,8 @@ Currently, I am seeking my first job as a developer, while also mentoring and te
 <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://appwrite.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/appwrite-colored.svg" width="36" height="36" alt="Appwrite" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 

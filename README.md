@@ -6,7 +6,7 @@ Full-Stack Developer
 
 I began coding over a year ago, initially thinking it'd be a hobby I'd move on from. Turns out, I have a passion for tackling challenging problems and bringing functionality to life. Within a few months, I found myself enrolled in bootcamp at Northwestern University. 
 
-Currently, I am seeking my first job as a developer, while also mentoring and teaching engineers of various ages. During my free time, I enjoy working on full-stack projects, contributing to Hack for LA, and experimenting with fun APIs.
+Currently, I am seeking a full-time job as a developer. In the meantime, I have been mentoring and teaching developers of various ages for [Code Your Dreams](https://www.codeyourdreams.org) and [After School Matters](https://afterschoolmatters.org). During my free time, I enjoy working on full-stack projects, contributing to Hack for LA, and experimenting with APIs.
 
 * 🌍  I'm based in Chicago, IL
 * 🖥️  See my portfolio at [graycodes.dev](http://graycodes.dev)

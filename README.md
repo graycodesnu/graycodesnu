@@ -4,15 +4,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-Stack Developer
 --------------------
 
-I began coding over a year ago, initially thinking it'd be a hobby I'd move on from. Turns out, I have a passion for tackling challenging problems and bringing functionality to life. Within a few months, I found myself enrolled in bootcamp at Northwestern University. 
+I began coding, thinking it'd be a hobby I'd move on from, but I quickly became obsessed. I am passionate about tackling challenging problems and bringing functionality to life, and coding provides the perfect outlet. Within a few months, I enrolled in bootcamp at Northwestern University. 
 
-Currently, I am seeking a full-time job as a developer. In the meantime, I have been mentoring and teaching developers of various ages for [Code Your Dreams](https://www.codeyourdreams.org) and [After School Matters](https://afterschoolmatters.org). During my free time, I enjoy working on full-stack projects, contributing to Hack for LA, and experimenting with APIs.
+Currently, I am seeking a full-time job as a developer. In the meantime, I have been mentoring and teaching developers of various ages for [Code Your Dreams](https://www.codeyourdreams.org) and [After School Matters](https://afterschoolmatters.org). I enjoy working on full-stack projects, contributing to Hack for LA, and experimenting with APIs during my free time.
 
 * 🌍  I'm based in Chicago, IL
 * 🖥️  See my portfolio at [graycodes.dev](http://graycodes.dev)
 * ✉️  You can contact me at [graycodes.nu@gmail.com](mailto:graycodes.nu@gmail.com)
 * 🚀  I'm currently working on [MyPets](http://github.com/OurPetProjects/my_pets)
-* 🧠  I'm learning Framer Motion animations and data structures and algorithms
+* 🧠  I'm learning Framer Motion animations and data structures, and algorithms
 * 🤝  I'm open to collaborating on projects involving NASA's API, anything related to LGBTQ+ issues, or civic tech
 
 ### Skills

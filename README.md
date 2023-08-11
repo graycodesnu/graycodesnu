@@ -4,9 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-Stack Developer
 --------------------
 
-I began coding, thinking it'd be a hobby I'd move on from, but I quickly became obsessed. I am passionate about tackling challenging problems and bringing functionality to life, and coding provides the perfect outlet. Within a few months, I enrolled in bootcamp at Northwestern University. 
+I'm currently seeking a full-time opportunity as a developer. In the meantime, I have been mentoring and teaching developers of various ages for [Code Your Dreams](https://www.codeyourdreams.org) and [After School Matters](https://afterschoolmatters.org). I enjoy working on full-stack projects, contributing to Hack for LA, and experimenting with APIs during my free time.
 
-Currently, I am seeking a full-time job as a developer. In the meantime, I have been mentoring and teaching developers of various ages for [Code Your Dreams](https://www.codeyourdreams.org) and [After School Matters](https://afterschoolmatters.org). I enjoy working on full-stack projects, contributing to Hack for LA, and experimenting with APIs during my free time.
+I began coding thinking it'd be a fleeting hobby but quickly became obsessed. Passionate about tackling challenging problems and bringing functionality to life, coding provides the perfect outlet for me. A few months after my first "Hello World", I enrolled in a full stack development bootcamp at Northwestern University. My favorite thing about coding is the constant learning. I love diving into new concepts, languages, and frameworks, finding ways to improve efficiency, and learning from other developers' different approaches.
+
+A bit more about me:
 
 * 🌍  I'm based in Chicago, IL
 * 🖥️  See my portfolio at [graycodes.dev](http://graycodes.dev)

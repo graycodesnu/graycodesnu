@@ -1,12 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Grayson
 ===============================================================================================================================
 
-Full-Stack Developer
+Computer Science Student, Full-Stack Developer
 --------------------
 
-I'm currently seeking a full-time opportunity as a developer. In the meantime, I have been mentoring and teaching developers of various ages for [Code Your Dreams](https://www.codeyourdreams.org) and [After School Matters](https://afterschoolmatters.org). I enjoy working on full-stack projects, contributing to Hack for LA, and experimenting with APIs during my free time.
+I'm a Computer Science student working towards my MS degree. While my goal is to eventually work as a developer, I would love to get my foot in the door doing anything tech-related so I can continue to expand my skill set. In the meantime, I have been mentoring and teaching developers of various ages for [Code Your Dreams](https://www.codeyourdreams.org) and [After School Matters](https://afterschoolmatters.org). I enjoy working on full-stack projects, contributing to Hack for LA, and experimenting with APIs during my free time.
 
-I began coding thinking it'd be a fleeting hobby but quickly became obsessed. Passionate about tackling challenging problems and bringing functionality to life, coding provides the perfect outlet for me. A few months after my first "Hello World", I enrolled in a full stack development bootcamp at Northwestern University. My favorite thing about coding is the constant learning. I love diving into new concepts, languages, and frameworks, finding ways to improve efficiency, and learning from other developers' different approaches.
+During one of COVID's many quarantines, I began coding. What I thought would be a fleeting hobby turned into an obsession. I am passionate about tackling challenging problems and bringing functionality to life, so coding provides the perfect outlet for me. A few months after my first "Hello World", I enrolled in a full-stack web development bootcamp at Northwestern University. My favorite thing about coding is the constant learning. I love diving into new concepts, languages, and frameworks, finding ways to improve efficiency, and learning from other developers' approaches.
 
 A bit more about me:
 
@@ -14,7 +14,7 @@ A bit more about me:
 * 🖥️  See my portfolio at [graycodes.dev](http://graycodes.dev)
 * ✉️  You can contact me at [graycodes.nu@gmail.com](mailto:graycodes.nu@gmail.com)
 * 🚀  I'm currently working on [MyPets](http://github.com/OurPetProjects/my_pets)
-* 🧠  I'm learning Framer Motion animations and data structures, and algorithms
+* 🧠  I'm learning Framer Motion animations, and practicing data structures and algorithms
 * 🤝  I'm open to collaborating on projects involving NASA's API, anything related to LGBTQ+ issues, or civic tech
 
 ### Skills

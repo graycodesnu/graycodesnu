@@ -4,7 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science Student, Full-Stack Developer
 --------------------
 
-I'm a Computer Science student working towards my MS degree. While my goal is to eventually work as a developer, I would love to get my foot in the door doing anything tech-related so I can continue to expand my skill set. In the meantime, I have been mentoring and teaching developers of various ages for [Code Your Dreams](https://www.codeyourdreams.org) and [After School Matters](https://afterschoolmatters.org). I enjoy working on full-stack projects, contributing to Hack for LA, and experimenting with APIs during my free time.
+I'm a Computer Science student working towards my MS degree. While my goal is to eventually work as a developer, I would love to get my foot in the door doing anything tech-related so I can continue to expand my skill set. 
+
+In the meantime, I have been mentoring and teaching developers of various ages for [Code Your Dreams](https://www.codeyourdreams.org) and [After School Matters](https://afterschoolmatters.org). I enjoy working on full-stack projects, contributing to Hack for LA, and experimenting with APIs during my free time.
 
 During one of COVID's many quarantines, I began coding. What I thought would be a fleeting hobby turned into an obsession. I am passionate about tackling challenging problems and bringing functionality to life, so coding provides the perfect outlet for me. A few months after my first "Hello World", I enrolled in a full-stack web development bootcamp at Northwestern University. My favorite thing about coding is the constant learning. I love diving into new concepts, languages, and frameworks, finding ways to improve efficiency, and learning from other developers' approaches.
 

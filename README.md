@@ -1,23 +1,21 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Grayson
 ===============================================================================================================================
 
-Computer Science Student, Full-Stack Developer
+Educator, CS Hobbyist
 --------------------
 
-I'm a Computer Science student working towards my MS degree. I currently hold a certificate in Full-Stack web development from Northwestern University. While my goal is to eventually work as a developer, I would love to get my foot in the door doing anything tech-related as I continue expanding my skill set. 
+I currently hold a certificate in Full-Stack web development from Northwestern University.  
 
-In the meantime, I have been mentoring and teaching developers of various ages for [Code Your Dreams](https://www.codeyourdreams.org) and [After School Matters](https://afterschoolmatters.org). I enjoy working on full-stack projects, contributing to Hack for LA, and experimenting with APIs during my free time.
+I have been mentoring and teaching developers of various ages for [Code Your Dreams](https://www.codeyourdreams.org) and [After School Matters](https://afterschoolmatters.org). I enjoy working on full-stack projects, contributing to Hack for LA, and experimenting with APIs during my free time.
 
-During one of COVID's many quarantines, I began coding. What I thought would be a fleeting hobby turned into an obsession. I am passionate about tackling challenging problems and bringing functionality to life, so coding provides the perfect outlet for me. A few months after my first "Hello World," I enrolled in a full-stack web development boot camp at Northwestern University. My favorite thing about coding is the constant learning. I love diving into new concepts, languages, and frameworks, finding ways to improve efficiency, and learning from other developers' approaches.
+During one of COVID's many quarantines, I began coding. What I thought would be a fleeting hobby turned into an passion. I enjoy tackling challenging problems and bringing functionality to life, so coding provides the perfect outlet for me. A few months after my first "Hello World," I enrolled in a full-stack web development boot camp at Northwestern University. My favorite thing about coding is the constant learning. I love diving into new concepts, languages, and frameworks, finding ways to improve efficiency, and learning from other developers' approaches.
 
 A bit more about me:
 
 * 🌍  I'm based in Chicago, IL
-* 🖥️  See my portfolio at [graycodes.dev](http://graycodes.dev)
 * ✉️  You can contact me at [graycodes.nu@gmail.com](mailto:graycodes.nu@gmail.com)
-* 🚀  I'm currently working on [MyPets](http://github.com/OurPetProjects/my_pets)
 * 🧠  I'm learning Framer Motion animations, and practicing data structures and algorithms
-* 🤝  I'm open to collaborating on projects involving NASA's API, anything related to LGBTQ+ issues, or civic tech
+* 🤝  I'm open to collaborating on projects involving APIs, relational databases, anything related to LGBTQ+ issues, or civic tech
 
 ### Skills
 

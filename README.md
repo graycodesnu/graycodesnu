@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Educator, CS Hobbyist
 --------------------
 
-I currently hold a certificate in Full-Stack web development from Northwestern University.  
+I currently hold a certificate in Full-Stack Web Development from Northwestern University.  
 
 I have been mentoring and teaching developers of various ages for [Code Your Dreams](https://www.codeyourdreams.org) and [After School Matters](https://afterschoolmatters.org). I enjoy working on full-stack projects, contributing to Hack for LA, and experimenting with APIs during my free time.
 

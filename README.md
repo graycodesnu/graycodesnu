@@ -8,7 +8,7 @@ I currently hold a certificate in Full-Stack Web Development from Northwestern U
 
 I have been mentoring and teaching developers of various ages for [Code Your Dreams](https://www.codeyourdreams.org) and [After School Matters](https://afterschoolmatters.org). I enjoy working on full-stack projects, contributing to Hack for LA, and experimenting with APIs during my free time.
 
-During one of COVID's many quarantines, I began coding. What I thought would be a fleeting hobby turned into an passion. I enjoy tackling challenging problems and bringing functionality to life, so coding provides the perfect outlet for me. A few months after my first "Hello World," I enrolled in a full-stack web development boot camp at Northwestern University. My favorite thing about coding is the constant learning. I love diving into new concepts, languages, and frameworks, finding ways to improve efficiency, and learning from other developers' approaches.
+During one of COVID's many quarantines, I began coding. What I thought would be a fleeting hobby turned into a passion. I enjoy tackling challenging problems and bringing functionality to life, so coding provides the perfect outlet for me. A few months after my first "Hello World," I enrolled in a full-stack web development boot camp at Northwestern University. My favorite thing about coding is the constant learning. I love diving into new concepts, languages, and frameworks, finding ways to improve efficiency, and learning from other developers' approaches.
 
 A bit more about me:
 
